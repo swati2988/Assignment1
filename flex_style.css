@@ -1,0 +1,33 @@
+.container{
+display:flex;
+margin:5px;
+justify-content:center;
+width:800px;
+}
+
+.box1{
+
+   width:30%;
+   height:200px;
+   background-color: aqua; 
+   margin:20px;
+}
+.box2{
+
+    width:45%;
+    height:200px;
+    background-color: rgb(255, 0, 242);
+    Margin:15px; 
+ }
+ .box3{
+
+    width:30%;
+    height:200px;
+    background-color: rgb(255, 196, 0); 
+    margin:10px;
+ }
+ h1{
+     color:blue;
+    
+     text-align:center;
+ }

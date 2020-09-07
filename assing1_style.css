@@ -1,0 +1,57 @@
+.containeer{
+    width:800px;
+    height:auto;
+}
+.logodiv{
+    width:232px;
+    height:82px;
+    border:2px solid black;
+}
+.NewsDiv{
+    width:232px;
+    height: 210px;
+    border:2px solid black;
+    margin-top:11px;
+}
+.AdDiv{
+    width:232px;
+    height: 205px;
+    border:2px solid black;
+    margin-top:33px;
+}
+.banner{
+    width:557px;
+    height:82px;
+    border:2px solid black;
+margin-left:250px;
+
+  display:flex;
+}
+.bottombar{
+    width:800px;
+    height:44px;
+    border:2px solid black;
+    margin-top:15px; 
+}
+.navigation{
+    width:557px;
+    height:49px;
+    border:2px solid blue;
+    margin-top:11px;  
+    background-color: 000099;
+    display:block;
+}
+.header{
+    width:557px;
+    height:82px;
+    border:2px solid black;
+     
+    float:right;
+}
+.navigation{
+    width:557px;
+    height:49px;
+    border:2px solid black; 
+    background-color:blue;
+    float:right;
+}
